@@ -1,8 +1,8 @@
 # BIT 2118-SCIENTIFIC COMPUTING 
 
-**Name:** Ayub Hussein
+**Name:** Rickson Mwangi
 
-**Admission number:** BSCCS/2024/56898
+**Admission number:** BSCCS/2024/54222
 
 **Course:** BIT 2118-SCIENTIFIC COMPUTING 
 
